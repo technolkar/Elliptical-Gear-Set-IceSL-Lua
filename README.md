@@ -18,9 +18,9 @@
 
 ### 🎬 The printed gears in action
 
-https://github.com/user-attachments/assets/baf3d978-af50-47b0-aa6c-d82e60944daf
+https://github.com/user-attachments/assets/737e5f75-4f76-44b6-9021-6abcec08a182
 
-<sub>Two printed elliptical gears turning on their focus shafts. One gear speeds up while the other slows down, then they swap, all in one revolution. 🎵 Turn the sound on for the background music.</sub>
+<sub>Two printed elliptical gears turning on their focus shafts. One gear speeds up while the other slows down, then they swap, all in one revolution. 🎵 Turn the sound on for the background music. Video not playing? [Download it](media/am-printed-gears.mp4).</sub>
 
 ---
 
@@ -117,7 +117,7 @@ No PowerPoint. We **painted every slide by hand** and told the story of a noisy 
 
 <br/>
 
-https://github.com/user-attachments/assets/e83eaaae-acdb-4f91-aaca-8abf6cc6c446
+https://github.com/user-attachments/assets/4c1f1833-1003-4113-8b64-5b0a26206407
 
 </details>
 
