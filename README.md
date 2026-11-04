@@ -18,9 +18,9 @@
 
 ### 🎬 The printed gears in action
 
-https://github.com/user-attachments/assets/bafe5de8-52b5-421c-87c9-81f2e977eea9
+https://github.com/user-attachments/assets/baf3d978-af50-47b0-aa6c-d82e60944daf
 
-<sub>Two printed elliptical gears turning on their focus shafts. One gear speeds up while the other slows down, then they swap, all in one revolution.</sub>
+<sub>Two printed elliptical gears turning on their focus shafts. One gear speeds up while the other slows down, then they swap, all in one revolution. 🎵 Turn the sound on for the background music.</sub>
 
 ---
 
